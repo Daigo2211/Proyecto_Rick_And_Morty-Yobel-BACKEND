@@ -5,6 +5,7 @@ import lombok.Setter;
 
 import java.util.List;
 
+//Datos del episodio
 @Getter
 @Setter
 public class Episode {

@@ -2,6 +2,8 @@ package com.yobel.proyecto_rickymorty.Models;
 
 import java.util.List;
 
+
+//Al final decidí no usar paginación
 public class CharacterResponse {
     private Info info;
     private List<Character> results;

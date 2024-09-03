@@ -4,6 +4,8 @@ import lombok.Setter;
 
 import java.util.List;
 
+
+//Datos del personaje
 @Getter
 @Setter
 public class Character {

@@ -3,7 +3,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
-
+//Clase para usar RestTemplate de manera global
 @Configuration
 public class AppConfig {
 
